@@ -1,9 +1,15 @@
 /* 4, External */
 body {
     padding-bottom: 500px;
+    background-color: aqua;
 }
 
 h3 {
     color: green;
 }
 
+.paragraph {
+    background-color: pink;
+    color: gray;
+    padding: 5px;
+}
