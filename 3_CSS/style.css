@@ -22,3 +22,15 @@ h3 {
     font-size: 40px;
 }
 
+/* Ordem de Seletores */
+h2 {
+    border-bottom: 6px solid red;
+}
+
+.titulo {
+    border-bottom: 4px solid blue;
+}
+
+#texto {
+    border-bottom: 2px solid green;
+}
