@@ -1,15 +1,24 @@
 /* 4, External */
 body {
     padding-bottom: 500px;
-    background-color: aqua;
 }
 
 h3 {
     color: green;
 }
 
+/* classe em uso */
 .paragraph {
     background-color: pink;
     color: gray;
     padding: 5px;
 }
+
+/* id em uso */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
