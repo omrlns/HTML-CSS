@@ -59,3 +59,12 @@ h2 {
 .simple-hex-2 {
     color: #a5f;
 }
+
+/* RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+.mix-de-rgb {
+    color: rgb(125, 29, 5);
+}
