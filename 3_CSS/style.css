@@ -41,3 +41,12 @@ h2 {
     font-size: 50px;
     background-color: grey;
 }
+
+/* HEX */
+.color-hex {
+    color: #55a398;
+}
+
+.color-hex2 {
+    color: #fd41ed;
+}
