@@ -144,3 +144,14 @@ h2 {
     width: 50px;
     background-color: green;
 }
+
+/* padding */
+.padding {
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.no-padding {
+    background-color: red;
+}
