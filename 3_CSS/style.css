@@ -113,3 +113,16 @@ h2 {
     background-image: url(../2_HTML/assets/recepçãotorcidatricolor.jpg);
     padding: 10px;
 }
+
+/* centralizar img de bg */
+.not-centered-bg,
+.centered-bg {
+    height: 300px;
+    width: 600px;
+    background-image: url(../2_HTML/assets/morumbi.jpg);
+}
+
+.centered-bg {
+    background-position: center;
+    background-size: cover; 
+}
