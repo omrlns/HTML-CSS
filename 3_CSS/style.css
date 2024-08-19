@@ -34,3 +34,10 @@ h2 {
 #texto {
     border-bottom: 2px solid green;
 }
+
+/* Nome de Cores */
+.color-name {
+    color: red;
+    font-size: 50px;
+    background-color: grey;
+}
