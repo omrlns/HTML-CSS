@@ -195,3 +195,45 @@ h2 {
     box-sizing: border-box;
 }
 
+/* border */
+.border {
+    border: 5px solid red;
+    padding: 10px;
+}
+
+.border-2 {
+    border: 2px dotted #123;
+    padding: 5px;
+}
+
+/* borda individual */
+.border-left {
+    border-left: 3px solid red;
+    background-color: #222;
+    padding: 25px;
+    color: #fff
+}
+
+.border-bottom {
+    border-bottom: 5px double #399;
+    background-color: #222;
+    padding: 20px;
+    color: #fff
+}
+
+/* borda arredondada */
+.rounded-p {
+    border: 4px solid blue;
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.rounded-p-2 {
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 15px;
+}
