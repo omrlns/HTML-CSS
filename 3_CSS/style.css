@@ -82,3 +82,14 @@ h2 {
 .hsl-2 {
     color: hsl(255, 100%, 50%)
 }
+
+/* mundo o background-color */
+.bg {
+    background-color: black;
+    color: gold
+}
+
+.bg-2 {
+    background-color: red;
+    color: white;   
+}
