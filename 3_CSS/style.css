@@ -320,3 +320,62 @@ h2 {
 .spacing {
     letter-spacing: 5px;
 }
+
+/* fontes */
+.serif {
+    font-family: serif;
+    font-size: 50px;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.monospace {
+       font-family: monospace;
+       font-size: 50px;
+}
+
+.cursive {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.fantasy {
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+/* estilos de fonte */
+.italic {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.oblique {
+    font-style: oblique;
+    font-size: 30px;
+}
+
+/* font weight */
+.thin {
+    font-family: Helvetica;
+    font-weight: 200;
+    border-bottom: 1px solid red;
+    font-size: 30px;
+}
+
+.bold {
+    font-family: Helvetica;
+    font-weight: 400;
+    border-bottom: 1px solid red;
+    font-size: 30px;
+}
+
+.bolder {
+    font-family: Helvetica;
+    font-weight: 600;
+    border-bottom: 1px solid red;
+    font-size: 30px;
+}
