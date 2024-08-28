@@ -50,12 +50,12 @@
             </select>
         </div>
         <!-- 9, TEXTAREA -->
-         <div>
+        <div>
             <label for="comment">Escreva abaixo o que você achou do post:</label>
-            <textarea name="comment" ></textarea>
-         </div>
-         <!-- 10, FIELDSET E LEGEND -->
-          <div>
+            <textarea name="comment"></textarea>
+        </div>
+        <!-- 10, FIELDSET E LEGEND -->
+        <div>
             <fieldset>
                 <legend>Preencha as suas informações:</legend>
                 <label for="firtsname">Nome:</label>
@@ -63,7 +63,18 @@
                 <label for="lastname">Sobrenome:</label>
                 <input type="text" name="lastname">
             </fieldset>
-          </div>
+        </div>
+        <!-- 11, DATALIST -->
+        <div>
+            <label for="flavor">Escolha o sabor:</label>
+            <input type="text" name="flavor" list="flavors">
+            <datalist id="flavors">
+                <option value="Creme"></option>
+                <option value="Morango"></option>
+                <option value="Flocos"></option>
+                <option value="Chocolate"></option>
+            </datalist>
+        </div>
         <!-- 5, ENVIO DE FORM -->
         <input type="submit" value="Enviar">
     </form>
