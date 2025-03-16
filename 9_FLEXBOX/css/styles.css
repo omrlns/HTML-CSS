@@ -154,7 +154,7 @@ body {
     flex-grow: 1;
 }
 
-/* shrink */
+/* 10, shrink */
 .shrink {
     display: flex;
 }
@@ -168,4 +168,18 @@ body {
 
 .shrink .small {
     flex-shrink: 2;
+}
+
+/* 11, shorthand*/
+.shorthand {
+    display: flex;
+}
+
+.shorthand .box {
+    width: auto;
+    flex: 1 1 50px;
+}
+
+.shorthand .different {
+    flex: 3 1 400px;
 }
