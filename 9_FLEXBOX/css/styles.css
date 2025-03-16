@@ -1,0 +1,10 @@
+/* 1, flex */
+body {
+    padding-bottom: 500px;
+}
+
+.flex {
+    display: flex;
+    background-color: gray;
+    margin-bottom: 20px;
+}
