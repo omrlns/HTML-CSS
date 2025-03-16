@@ -5,6 +5,13 @@ body {
 
 .flex {
     display: flex;
-    background-color: gray;
+    background-color: #ddd;
     margin-bottom: 20px;
+}
+
+/* 2, flex column */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc;
 }
